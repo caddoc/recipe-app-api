@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Varun Moghe
+LABEL AUTHOR="Varun Moghe"
 
 ENV PYTHONUNBUFFERED 1
 
